@@ -4,6 +4,15 @@ Tools I actually use to run an enterprise AI SDLC: agent governance, coding agen
 
 Curated by [a consultant who cleans up after failed AI rollouts](https://github.com/dplotnikov). Every entry either runs in a real project or earned its place by saving one.
 
+## Contents
+
+- [Agent and AI governance](#agent-and-ai-governance)
+- [Coding agents and skills](#coding-agents-and-skills)
+- [Frameworks and orchestration](#frameworks-and-orchestration)
+- [Data preparation](#data-preparation)
+- [Methodologies](#methodologies)
+- [Contributing](#contributing)
+
 ## Agent and AI governance
 
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - Policy enforcement, zero-trust identity, and execution control for agents. The technical answer to "who let the agent do that".
@@ -13,6 +22,7 @@ Curated by [a consultant who cleans up after failed AI rollouts](https://github.
 - [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, and custom agents that ground coding agents in official SDK documentation instead of vibes.
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Azure skills and MCP server configurations for coding agents. Your agent stops guessing az CLI flags.
 - [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) - Plugin marketplace for Claude Code and GitHub Copilot covering Power Platform work.
+- [microsoft/cat-agent-skills](https://github.com/microsoft/cat-agent-skills) - Community skill gallery for Copilot Studio, Cowork, and Scout: drop-in document converters, content auditors, and automation bundles instead of rebuilding the same skill on every agent platform.
 
 ## Frameworks and orchestration
 
